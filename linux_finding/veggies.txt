@@ -1,0 +1,5 @@
+celery
+broccoli
+kale
+artichokes
+onions
