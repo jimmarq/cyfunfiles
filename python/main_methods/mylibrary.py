@@ -1,6 +1,7 @@
-# This is a very basic pythong file that
-# is intended to show the differences that
-# occur when importing a .py file compared
+# This is a very basic pythong file
+# that is intended to show the 
+# differences that occur when
+# importing a .py file compared
 # with running a .py file directly.
 
 def go():

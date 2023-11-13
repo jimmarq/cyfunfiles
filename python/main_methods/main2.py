@@ -1,6 +1,7 @@
 # Exercise: Main Method
 
-# Complete the code at the bottom of this file.
+# Complete the code at the bottom of 
+# this file.
 # Use the `main` "duner" method.
 
 def go():
@@ -8,5 +9,6 @@ def go():
     print("Hello, " + name + "!")
     print("End of program.")
 
-# Check if the python program run from the terminal.
+# Check if the python program run 
+# from the terminal.
 # If so, run the go() function.

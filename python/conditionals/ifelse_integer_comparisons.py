@@ -1,6 +1,8 @@
 # Exercise: Comparison Operators
-# Two variables have been created below: `a` and `b`.
-# Write the comparisons that correclty complete the code.
+# The variables `a` and `b` are
+#  created below.
+# Write the comparisons that 
+# correclty complete the code.
 
 a = 10
 b = 5

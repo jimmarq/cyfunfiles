@@ -1,6 +1,6 @@
 # Import versus Run
-# The file mylibrary.py exists in the same
-# folder as this file.
+# The file mylibrary.py exists in 
+# the same folder as this file.
 #
 # From the terminal run:
 # python mylibrary.py

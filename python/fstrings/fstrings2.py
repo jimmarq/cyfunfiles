@@ -1,14 +1,16 @@
 # Exercise: F-strings
 
-# In this exercise, we will practice using f-strings in Python.
+# In this exercise, we will practice
+# using f-strings in Python.
 # The following code sets several variables.
 
 name = "Pat Parker"
 pi = 3.14159265358979323846
 height = 72
 
-# Write the print statements using f-strings
-# and the variables above to print the following:
+# Write the print statements using 
+# f-strings and the variables above
+#  to print the following:
 
 # I am Pat Parker
 

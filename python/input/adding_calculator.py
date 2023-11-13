@@ -1,6 +1,10 @@
-# Complete the code below to create a addition-only calculator.
-# The calculator should prompt the user to enter two numbers.
-# Finally, print the addition of both numbers.
+# Complete the code below to create
+#  a addition-only calculator.
+# The calculator should prompt 
+# the user to enter two numbers.
+# Finally, print the addition of 
+# both numbers.
+#
 # Example Output:
 # Enter the first number: 10
 # Enter the second number: 5

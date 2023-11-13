@@ -1,6 +1,10 @@
 # Comparison Operators Exercise
-# In this exercise, you will be given two integers 'a' and 'b'.
-# Your task is to write Python code to check and print whether 'a' is greater than, equal to, or less than 'b'.
+# In this exercise, you will be given
+# two integers: 'a' and 'b'.
+# Your task is to write Python code to
+#  check and print whether 'a' is 
+# greater than, equal to, or less than 'b'.
+
 # Example:
 # a = 5, b = 3 => Output: a is greater than b
 

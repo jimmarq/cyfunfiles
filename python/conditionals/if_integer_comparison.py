@@ -1,9 +1,11 @@
 # Exercise: Comparison Operators
 
-# In this exercise, you need to write Python code to compare two numbers using different comparison operators.
+# In this exercise, you need to write
+# Python code to compare two numbers 
+# using different comparison operators.
 
-# Step 1: The variables `a` and `b` have been
-# declared for you.
+# Step 1: The variables `a` and `b` 
+# have been declared for you.
 a = 5
 b = 10
 
@@ -23,10 +25,12 @@ if ?:
 if ?:
     print("a is less than b.")
 
-# Step 6: Check if 'a' is greater than or equal to 'b'
+# Step 6: Check if 'a' is 
+# greater than or equal to 'b'
 if ?:
     print("a is greater than or equal to b.")
 
-# Step 7: Check if 'a' is less than or equal to 'b'
+# Step 7: Check if 'a' is 
+# less than or equal to 'b'
 if ?:
     print("a is less than or equal to b.")
